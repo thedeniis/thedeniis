@@ -1,4 +1,4 @@
-### Olá! Me chamo Denis 👋
+### Olá!  meu nome é Denis 👋
 
 - 🔭 Atualmente trabalho com hardware e software
 - 🌱 Estudando javascript
