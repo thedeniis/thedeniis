@@ -1,7 +1,7 @@
 ### Olá!  meu nome é Denis 👋
 
 - 🔭 Atualmente trabalho com suporte  N1
-- 🌱 Estudando javascript
+- 🌱 Estudando HTML e CSS
 - 📫 Contate-me pelo: denissousab@gmail.com
 - 😄 Pronouns: ele/dele 
 <div>
