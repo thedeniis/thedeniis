@@ -1,6 +1,6 @@
 ### Olá!  meu nome é Denis 👋
 
-- 🔭 Atualmente atuando com suporte N1
+- 🔭 Atuando com suporte N1
 - 🌱 Estudando HTML e CSS
 - 📫 Contate-me pelo: denissousab@gmail.com
 - 😄 Pronouns: ele/dele 
